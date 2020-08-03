@@ -1,0 +1,3 @@
+/opt/spark-2.4.3/bin/spark-submit \
+  --master local[*] \
+  /home/areias/Documents/DataScience/graphs/coauthor-link-prediction-benchmark-6.py 
